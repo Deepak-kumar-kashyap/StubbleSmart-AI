@@ -13,7 +13,40 @@ This project was developed to demonstrate how on-device AI and geospatial logist
 - **CSV Data Export:** Push-button reporting for industries to export the entire geospatial dataset for logistics and compliance.
 - **Ultra-Engaging UI:** A cinematic, glassmorphism-inspired interface with scroll-triggered `AOS` animations, providing a modern and intuitive user experience.
 
-## 🛠️ Tech Stack
+## � Core Interfaces
+
+*Here is a preview of the StubbleSmart AI platform in action:*
+
+*(**Note to Developer**: Please upload your screenshots to the `screenshots/` folder or drag-and-drop them into this file on GitHub to replace these placeholders)*
+
+<div align="center">
+  
+  **1. The "Front Door" (Landing Page)**  
+  <img src="screenshots/landing-page.png" alt="StubbleSmart Landing Page" width="800"/>
+
+  <br><br>
+
+  **2. The Intelligent Workflow (Animations)**  
+  <img src="screenshots/workflow.png" alt="How it Works section" width="800"/>
+
+  <br><br>
+
+  **3. Farmer Portal (AI Verification)**  
+  <img src="screenshots/farmer-upload.png" alt="Farmer Upload and AI Verification" width="800"/>
+
+  <br><br>
+
+  **4. Farmer Portal (Carbon Credit Estimator)**  
+  <img src="screenshots/farmer-earnings.png" alt="Farmer Earnings and Carbon Credits" width="800"/>
+
+  <br><br>
+
+  **5. Industry Dashboard (Geospatial Mapping & Analytics)**  
+  <img src="screenshots/industry-dashboard.png" alt="Industry Analytics Dashboard" width="800"/>
+
+</div>
+
+## �🛠️ Tech Stack
 
 - **Frontend:** HTML5, Tailwind CSS, AOS (Animate on Scroll)
 - **Backend:** PHP 8.x
