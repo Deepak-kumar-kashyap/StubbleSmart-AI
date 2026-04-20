@@ -71,7 +71,7 @@ To run this project locally, you need a standard LAMP/WAMP/XAMPP stack.
     - Update the database credentials in `db.php` if necessary (defaults to `root` with no password).
 
 3.  **Run the App:**
-    - Place the project folder inside your web server's root directory (e.g., `htdocs` for XAMPP).
+    - Place the project folder inside your web server's root directory (for e.g., `htdocs` for XAMPP).
     - Open your browser and navigate to `http://localhost/YOUR_FOLDER_NAME/index.php`.
 
 ## 📂 Project Structure
